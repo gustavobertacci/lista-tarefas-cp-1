@@ -1,7 +1,7 @@
 export default function EditarProduto() {
   return (
     <main>
-        <h1>Editando o produto</h1>
+        <h1>Editando os produtos</h1>
     </main>
   )
 }
